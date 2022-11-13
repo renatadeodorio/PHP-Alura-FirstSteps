@@ -6,3 +6,7 @@
 ⇨ /* Comentário de várias linhas;
 
 ⇨ */ Encerra comentários de várias linhas;
+
+⇨ php -a : inicia o terminal interativo, onde pode digitar código PHP que será executado em tempo real;
+
+⇨ quit : quando desejar sair, basta executar o comando;
