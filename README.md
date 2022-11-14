@@ -44,6 +44,8 @@ P.s: espaço (ou nova linha) após <?php é obrigatório;
 
 ⇨`\n` ou `\r`: Nova linha;
 
+⇨`.`: para concatenar uma string com uma outra variável;
+
 
 
 
