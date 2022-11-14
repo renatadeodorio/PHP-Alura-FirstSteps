@@ -34,6 +34,18 @@ P.s: espaço (ou nova linha) após <?php é obrigatório;
 
 ⇨`gettype`: conseguimos descobrir o tipo de uma variável;
 
+● Para concatenar uma string com uma outra variável usamos o `.` (ponto);
+
+● Podemos definir uma string com aspas simples(`'`) ou duplas(`"`);
+
+● Para interpretar um valor da variável ou caractere especial dentro da string devemos usar aspas duplas;
+
+⇨`PHP_EOL´: constante dp PHP para indicar uma quebra de linha;
+
+⇨`\n` ou `\r`: Nova linha;
+
+
+
 
 
 
