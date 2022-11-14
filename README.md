@@ -30,6 +30,10 @@ P.s: espaço (ou nova linha) após <?php é obrigatório;
 
 ⇨`quit` : quando desejar sair, basta executar o comando;
 
+⇨`echo` : imprime o valor de uma variável;
+
+⇨`gettype`: conseguimos descobrir o tipo de uma variável;
+
 
 
 
