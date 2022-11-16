@@ -40,9 +40,11 @@ P.s: espaço (ou nova linha) após <?php é obrigatório;
 
 ● Para interpretar um valor da variável ou caractere especial dentro da string devemos usar aspas duplas;
 
-⇨`PHP_EOL`: constante dp PHP para indicar uma quebra de linha;
+⇨`PHP_EOL`: constante do PHP para indicar uma quebra de linha;
 
 ⇨`\n` ou `\r`: Nova linha;
+
+⇨`.`: para concatenar uma string com uma outra variável;
 
 
 
