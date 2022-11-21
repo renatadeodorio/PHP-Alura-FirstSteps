@@ -46,22 +46,27 @@ P.s: espaço (ou nova linha) após <?php é obrigatório;
 
 ⇨`.`: para concatenar uma string com uma outra variável;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 O site oficial do PHP é ⇨ https://php.net/
+
+
+
+![PHP básico](https://user-images.githubusercontent.com/105244346/203142295-bae9e57b-73c5-4087-bed9-55a49a2018a1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
